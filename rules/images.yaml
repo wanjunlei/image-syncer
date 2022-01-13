@@ -58,3 +58,6 @@
 # Release
 # This section defines rules which used to sync images when issuing a release.
 
+"kubespheredev/notification-manager-operator:v1.4.1": "kubesphere/notification-manager-operator:v1.4.1"
+"kubespheredev/notification-manager:v1.4.1": "kubesphere/notification-manager:v1.4.1"
+"kubespheredev/notification-adapter:v0.2.0": "kubesphere/notification-adapter:v0.2.0"
